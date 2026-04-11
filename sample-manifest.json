@@ -1,0 +1,12 @@
+{
+  "export_job_id": "98dd84f2-edea-4e8d-8b2f-4167456d4943",
+  "id_short": 202691,
+  "published_at": "2026-04-11T19:04:46Z",
+  "repo_name": "all-restaurants-in-brownsville-harlingen-metro-texas-us-sample-202691",
+  "sample_asset_name": "beamstation_202691_restaurants-us-brownsvilleharlingentx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/202691/beamstation_202691_restaurants-us-brownsvilleharlingentx_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "a5796d102693f719b6177f5dd969ee6bb5397a6d99b1fd17be5b88459b6446e0",
+  "sample_size_bytes": 117510,
+  "total_records": 1086
+}
