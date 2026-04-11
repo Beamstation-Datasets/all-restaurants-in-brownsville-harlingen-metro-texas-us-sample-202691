@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Regional restaurant data for the Brownsville-Harlingen (Metro), Texas metropolitan area, spanning Brownsville and Harlingen. Spans multiple municipalities within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Brownsville-Harlingen (Metro), Texas, US",
+  "export_job_id": "98dd84f2-edea-4e8d-8b2f-4167456d4943",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 202691,
+  "location_name": "Brownsville-Harlingen, TX",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-brownsville-harlingen-metro-texas-us-sample-202691",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/202691/beamstation_202691_restaurants-us-brownsvilleharlingentx_SAMPLE_DIST.csv",
+  "sample_pct": 2.3,
+  "sample_records": 25,
+  "sample_sha256": "a5796d102693f719b6177f5dd969ee6bb5397a6d99b1fd17be5b88459b6446e0",
+  "sample_size_bytes": 117510,
+  "total_records": 1086,
+  "updated_at": "2026-03-31T17:03:13.748498+00:00"
+}
