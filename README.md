@@ -1,6 +1,6 @@
 # All Restaurants in Brownsville-Harlingen (Metro), Texas, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 117 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `202691` |
 | Location | Brownsville-Harlingen, TX |
 | Category | Restaurants |
-| Full dataset size | 1,086 records |
-| Free sample size | 25 records (2.3%) |
-| Last export | 2026-03-31T17:03:13.748498+00:00 |
+| Full dataset size | 1,178 records |
+| Free sample size | 117 records (9.93%) |
+| Last export | 2026-04-14T18:00:13.851599+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-brownsville-harlingen-metro-texas-us-sample-202691/releases/download/sample-latest/beamstation_202691_restaurants-us-brownsvilleharlingentx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
